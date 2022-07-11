@@ -1,5 +1,5 @@
 # College-Website
-College Website using only HTML without CSS styling.
+College Website using HTML without CSS styling.
 Sample images:
 
 ![image](https://user-images.githubusercontent.com/76395721/178151642-6e47a5de-07be-4da1-87e6-c41ab9eddd92.png)
